@@ -6,8 +6,6 @@ import (
 	"os/signal"
 	"syscall"
 	"time"
-
-	"github.com/GOLANG-NINJA/pingrobot/workerpool"
 )
 
 const (
